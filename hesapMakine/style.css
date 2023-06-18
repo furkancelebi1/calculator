@@ -1,0 +1,57 @@
+body{
+    background-color: beige;
+    margin: 0;
+}
+#hesapM{
+    
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+    height: auto;
+    background-color:cadetblue;
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+#gösterge{
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+#sonuç{
+    border: 2px solid;
+    width: 80%;
+    padding: 10px;
+    font-size: 25px;
+    word-wrap: break-word;
+    text-align: right;
+    border-radius: 20px;
+    
+}
+#buttonlar{
+text-align: center;
+}
+button{
+    width: 80px;
+    height: 100px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 30px;
+}
+.footer{
+    background-color:darkgrey;
+    padding: 20px;
+    margin: 0;
+}
+.footer a,
+.footer li{
+    text-decoration: none;
+    list-style: none;
+    margin: 5px;
+    text-align: center;
+    font-size: 47px;
+    padding: 0px 20px 0px 20px;
+    color:white;
+}
+.footer a:hover{
+    color: aquamarine;
+}
